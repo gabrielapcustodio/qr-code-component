@@ -14,8 +14,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [HTML](https://github.com/gabrielapcustodio/qr-code-component/blob/main/index.html)
+- Solution URL: [CSS](https://github.com/gabrielapcustodio/qr-code-component/blob/main/styles.css)
+- Live Site URL: [Veja a solução](https://gabrielapcustodio.github.io/qr-code-component/)
 
 ## My process
 
@@ -27,6 +28,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Portfólio](https://gabrielapcustodio.github.io/portfolio/)
+- Frontend Mentor - [@gabrielapcustodio](https://www.frontendmentor.io/profile/gabrielapcustodio)
+- Twitter - [@gabrielapcstd](https://twitter.com/gabrielapcstd)
